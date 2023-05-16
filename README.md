@@ -1,2 +1,0 @@
-# CommitToHire
-Pelican Personal Site
