@@ -1,6 +1,6 @@
 AUTHOR = 'Taylor Clingenpeel'
 SITENAME = 'CommitToHire'
-SITEURL = 'https://taylorlcling.github.io/CommitToHire/'
+SITEURL = 'https://taylorlcling.github.io/CommitToHire'
 
 PATH = 'content'
 OUTPUT_PATH = 'output'
@@ -32,4 +32,4 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 # THEME settings
-THEME = '../pelican-themes/pelican-mockingbird'
+THEME = 'themes/pelican-mockingbird'
